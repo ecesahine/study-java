@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+span, h1 {
+  font-size: 20rem;
+}
+
+img {
+  max-width: 80vw;
+}
